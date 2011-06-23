@@ -1,6 +1,6 @@
 # index-viewer
 
-FIXME: write description
+webviewer for the elasticsearch index created by clojurebot-elasticsearh
 
 ## Usage
 
@@ -8,6 +8,6 @@ FIXME: write
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011 Kevin Downey
 
 Distributed under the Eclipse Public License, the same as Clojure.
